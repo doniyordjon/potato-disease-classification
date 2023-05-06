@@ -7,3 +7,6 @@ tensorflow-serving-api==2.11.0
 matplotlib
 numpy
 h5py
+gunicorn==19.9.0
+uvloop
+htttptools
